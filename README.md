@@ -1,4 +1,5 @@
 # Job Insight
+<img width="1113" height="768" alt="image" src="https://github.com/user-attachments/assets/bac987e6-5aa6-4a12-a853-ab6c42b91f74" />
 
 AI 기반 채용공고 추천 및 적합도 분석 플랫폼
 
@@ -444,12 +445,9 @@ http://localhost:8000
 
 # 향후 개선 사항
 
-- PostgreSQL 연동
 - Redis 캐싱
 - 사용자별 프로필 관리
 - 실시간 공고 갱신
-- 검색어 동적 입력
-- 벡터 DB(FAISS, ChromaDB) 적용
 - RAG 기반 공고 분석
 - Cloud 배포(AWS, GCP)
 
