@@ -1,0 +1,112 @@
+{
+    "name": "이승민",
+
+    "education": {
+        "degree": "학사",
+        "major": "AI학과"
+    },
+
+    "skills": [
+        "Python",
+        "PyTorch",
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "LLM",
+        "RAG",
+        "Prompt Engineering",
+        "Reinforcement Learning",
+        "ROS2",
+        "OpenCV",
+        "Linux",
+        "Git",
+        "Docker"
+    ],
+
+    "tools": [
+        "GitHub",
+        "Notion",
+        "Slack",
+        "VS Code",
+        "Ubuntu",
+        "Google Colab"
+    ],
+
+    "robotics": [
+        "ROS2",
+        "AMR",
+        "Navigation2",
+        "Collaborative Robot",
+        "Robot Vision",
+        "Autonomous Navigation"
+    ],
+
+    "ai_domains": [
+        "Generative AI",
+        "Large Language Model",
+        "Computer Vision",
+        "Machine Learning",
+        "Deep Learning",
+        "Spiking Neural Network",
+        "Reinforcement Learning"
+    ],
+
+    "projects": [
+        {
+            "name": "SNN 기반 손글씨 인식 연구",
+            "keywords": [
+                "SNN",
+                "Spiking Neural Network",
+                "PyTorch",
+                "MNIST",
+                "Deep Learning"
+            ]
+        },
+
+        {
+            "name": "ROS2 기반 AMR 자율주행 로봇 개발",
+            "keywords": [
+                "ROS2",
+                "Navigation2",
+                "Computer Vision",
+                "Depth Camera",
+                "Autonomous Navigation",
+                "Obstacle Avoidance"
+            ]
+        },
+
+        {
+            "name": "강화학습 기반 자율주행 프로젝트",
+            "keywords": [
+                "Reinforcement Learning",
+                "RL",
+                "Policy Optimization",
+                "Autonomous Driving"
+            ]
+        },
+
+        {
+            "name": "LLM 기반 채용공고 분석 시스템",
+            "keywords": [
+                "LLM",
+                "RAG",
+                "Prompt Engineering",
+                "Vector Search",
+                "Embedding"
+            ]
+        }
+    ],
+
+    "certificates": [
+        "AICE Associate"
+    ],
+
+    "interests": [
+        "AI Engineer",
+        "LLM Engineer",
+        "ML Engineer",
+        "Computer Vision Engineer",
+        "Robotics Software Engineer",
+        "AI Platform Engineer"
+    ]
+}
